@@ -1,37 +1,26 @@
 <p align="center">
-  <img src="GITHUB WALPAP.gif" width="100%" />
+  <img src="c1f45f1978fc7ad515497a5c64605d7f.jpg" width="500%" />
 </p>
+<h1 align = "center">
+  Hi 👋, I'm Anjani
+</h1>
+### *👾 I'm  building at the intersection of AI, Backend & Web3
 
-# Hi 👋, I'm Anjani
+- 🧠  **Computer Science student focused on AI, Machine Learning, Backend Development and Full-Stack applications.**
+- 🏗 **Built an AI Crime Intelligence Platform for analyzing crime data from 1,100+ police stations using FastAPI, PostgreSQL, LLMs, and network analytics.**
+- ✨ **Building AI automation workflows, intelligent lead generation systems, and data analytics solutions with Microsoft Fabric & Power BI.**
+- 🤖 **Python • FastAPI • React Native • Machine Learning • SQL • Git • Docker • REST APIs**
+- 🏆 **Microsoft Fabric Community Contributor • Amity 2025 hackathon top 10  • Contribuition in State Government Inititations**
+- 📫 Reach me out **anjaniiiii888@gmail.com**
 
-### *⚡ I'm  building at the intersection of AI, Backend & Web3
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=00F9C&size=18&center=true&vCenter=true&width=600&lines=Building+AI+Systems...;Learning+New+Things...;Shipping+Side+Projects...;STATUS:+OPEN+TO+WORK+🚀)](https://git.io/typing-svg)
-
-<!--
-  🖼️ THIS IS YOUR "DRAWING" — swap this for your own pixel-art/banner image.
-  Easiest options:
-   1. Draw one at https://pixilart.com or https://www.piskelapp.com (export as PNG)
-   2. Generate with any image tool and upload it to your repo
-   3. Use a site like https://raw.pixels.pl for an animated pixel gif
-  Then replace the URL below with your own image link (upload it to this repo
-  and use the raw.githubusercontent.com link, like the original does).
--->
-[![My pixel art](https://via.placeholder.com/700x300.png?text=Your+Pixel+Art+Here)](https://via.placeholder.com/700x300.png?text=Your+Pixel+Art+Here)
-
-- 🧠 **What you do** — e.g. "Full-stack + ML developer"
-- 😊 **A standout achievement** — e.g. "Built X that does Y"
-- ✨ **What you're working on now**
-- 🤖 **Tech you specialize in**
-- 🏆 **Awards / recognitions**
-- 📫 How to reach me **your.email@example.com**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0096FF&size=18&center=true&vCenter=true&width=1000&lines=Building+software+that+learns...;Learning+New+Things...;Always+Building+Projects...;STATUS:+Open+to+Contributions+🚀)](https://git.io/typing-svg)
 
 ## 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/yourhandle)
-[![X](https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge)](https://x.com/yourhandle)
-[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge)](mailto:your.email@example.com)
+[![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/anjani12)
+[![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=EA4335&logoColor=white&style=for-the-badge)](mailto:anjaniiiii888@gmail.com)
 [![Portfolio](https://img.shields.io/static/v1?message=Portfolio&logo=vercel&label=&color=000000&logoColor=white&style=for-the-badge)](https://yourportfolio.com)
+[![X](https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&style=for-the-badge)](https://x.com/Anjani911_)
 
 ## 🛠️ Tech Stack
 
@@ -40,7 +29,7 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
 
 ---
 
@@ -58,6 +47,7 @@
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ---
 
@@ -65,8 +55,6 @@
 
 ![OpenAI](https://img.shields.io/badge/OpenAI-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge)
-
 ---
 
 ## 📊 GitHub Stats
