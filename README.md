@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="GIT WALPAP.gif" width="100%" />
+  <img src="GITHUB WALPAP.gif" width="100%" />
 </p>
 
 # Hi 👋, I'm Anjani
