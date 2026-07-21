@@ -6,12 +6,11 @@
 </h1>
 ### *👾 I'm  building at the intersection of AI, Backend & Web3
 
-- 🧠  **Computer Science student focused on AI, Machine Learning, Backend Development and Full-Stack applications.**
-- 🏗 **Built an AI Crime Intelligence Platform for analyzing crime data from 1,100+ police stations using FastAPI, PostgreSQL, LLMs, and network analytics.**
-- ✨ **Building AI automation workflows, intelligent lead generation systems, and data analytics solutions with Microsoft Fabric & Power BI.**
-- 🤖 **Python • FastAPI • React Native • Machine Learning • SQL • Git • Docker • REST APIs**
-- 🏆 **Microsoft Fabric Community Contributor • Amity 2025 hackathon top 10  • Contribuition in State Government Inititations**
-- 📫 Reach me out **anjaniiiii888@gmail.com**
+-**I'm fascinated by large-scale, high-impact products and have worked on apps for State Government initiations . I have contributed to automation and detection feature.**
+-**Built an AI Crime Intelligence Platform for analyzing crime data from 1,100+ police stations using FastAPI, PostgreSQL, LLMs, and network analytics.**
+-**Building AI automation workflows, intelligent lead generation systems, and data analytics solutions with Microsoft Fabric & Power BI.**
+-**Python • FastAPI • React Native • Machine Learning • SQL • Git • Docker • REST APIs**
+-**Microsoft Fabric Community Contributor • Amity 2025 hackathon top 10  • Contribuition in State Government Inititations**
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&color=0096FF&size=18&center=true&vCenter=true&width=1000&lines=Building+software+that+learns...;Learning+New+Things...;Always+Building+Projects...;STATUS:+Open+to+Contributions+🚀)](https://git.io/typing-svg)
 
