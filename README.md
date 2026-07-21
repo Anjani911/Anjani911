@@ -2,11 +2,11 @@
   <img src="GITHUBWALPAPER.jpg" width="500%" />
 </p>
 <h1 align = "center">
-  Hello <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" width="100%">
+  Hello <img src="https://camo.githubusercontent.com/9fcde363f6e46385fd7bc47ef8edd937acaa2c872216105ab0475369f1c1a005/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533363335313037352f343539342f626c6f622d776176652e676966" height=25px>
 </h1>
-### *👾 I'm  building at the intersection of AI, Backend & Web3
+👾 I'm <b>Anjani</b> and I build products at the intersection of <b>AI, Backend & Web3</b>
 
--**I'm fascinated by large-scale, high-impact products and have worked on apps for State Government initiations . I have contributed to automation and detection feature.**
+**I'm fascinated by large-scale, high-impact products and have worked on apps for State Government initiations . I have contributed to automation and detection feature.**
 -**Built an AI Crime Intelligence Platform for analyzing crime data from 1,100+ police stations using FastAPI, PostgreSQL, LLMs, and network analytics.**
 -**Building AI automation workflows, intelligent lead generation systems, and data analytics solutions with Microsoft Fabric & Power BI.**
 -**Python • FastAPI • React Native • Machine Learning • SQL • Git • Docker • REST APIs**
@@ -25,7 +25,6 @@
 
 ### 💻 Core Languages
 
-### 💻 Languages
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
