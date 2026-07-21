@@ -32,7 +32,7 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-3776AB?style=for-the-badge&logo=sql&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-3178C6?style=for-the-badge&logo=typescript&logoColor=black)
-![Solana](https://img.shields.io/badge/Solana-3178C6?style=for-the-badge&logo=solana&logoColor=white)
+![Solana](https://img.shields.io/badge/Solana-3178C6?style=for-the-badge&logo=solana&logoColor=green)
 ---
 
 ### 🤖 Tools
