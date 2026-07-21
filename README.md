@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="c1f45f1978fc7ad515497a5c64605d7f.jpg" width="500%" />
+  <img src="GITHUBWALPAPER.jpg" width="500%" />
 </p>
 <h1 align = "center">
   Hi 👋, I'm Anjani
